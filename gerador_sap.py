@@ -71,4 +71,4 @@ if arquivo_upload:
         st.error(f"Erro ao processar: {e}")
 
 st.markdown("---")
-st.caption("v10.0 Web | Desenvolvido para Julian Drones & SAP Support")
+st.caption("v10.0 Web | Desenvolvido Julian Oliveira")
