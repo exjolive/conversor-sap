@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime
 
 # Configuração da página
-st.set_page_config(page_title="SAP Converter Web - Julian Drones", layout="centered")
+st.set_page_config(page_title="SAP Converter Web", layout="centered")
 
 st.title("🚀 Conversor de Carga SAP")
 st.markdown("### Processamento Automático e Ordenação por VBELN")
